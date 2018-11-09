@@ -1,0 +1,46 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Space=Mono');
+</style>
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+	background-image: url(https://www.fg-a.com/wallpapers/white-background-geo-shapes.jpg);
+  color: black;
+  font-family: 'SpaceMono' , monospace;
+  padding: 20px;
+}
+
+iframe{
+  width: 100%;
+  height: 60vh;
+}
+
+.links{
+  margin: 0 auto;
+  text-align: center;
+  font-style: 1em;
+
+}
+
+.links a{
+  color: red;
+  text-align: center;
+}
+
+#instagram {
+  color: rgb( 0, 0 , 0);
+  text-align: center;
+  margin 0 auto;
+}
+h1 {
+	color: black;
+  text-align: center;
+}
+p {
+	color: black;
+}
+#myDiv {
+	font-size: 36px;
+}
